@@ -1,0 +1,28 @@
+.dashboard_items{
+    height: 300px;
+    /* border-radius: 50%; */
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.font_large{
+    font-size: large;
+}
+.dash_product{
+    background-color: rgba(0, 128, 128, 0.521);
+}
+.color_dbcc8f{
+    color: #dbcc8f;
+}
+.bg_dbcc8f{
+    background-color: #dbcc8f;
+}
+.bg_232f3e{
+    background-color: #232f3e;
+}
+
+.size_15{
+    font-size: 15px;
+}
+

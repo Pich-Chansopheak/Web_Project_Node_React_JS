@@ -1,0 +1,154 @@
+.rate {
+  width: 700px;
+}
+.rating {
+  width: 100%;
+  margin-left: -12px;
+}
+.rating p {
+  color: rgb(228, 184, 42);
+}
+/* .img-box{
+    margin-left: 100px;
+} */
+.img-large {
+  background-color: #dbcc8f;
+  max-width: 100%;
+}
+
+.ratingg p {
+  color: rgb(228, 184, 42);
+  margin-left: 10px;
+}
+
+/* ProductDetail.js */
+.dstatus {
+  color: white;
+}
+.dbtn-card Button {
+  width: 150px;
+  font-size: large;
+  margin: auto;
+}
+.detail-container {
+  margin: 100px 0px 50px 0px;
+}
+
+/* cart.js */
+.shop-title {
+  margin-top: 100px;
+  margin-left: 100px;
+  font-weight: bold;
+}
+.cart-table {
+  /* transform: translateX(25%); */
+  margin-left: 150px;
+}
+.img-thumbnail {
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+}
+
+ 
+.btn-checkout Button {
+  font-size: large;
+}
+
+/* Sign in */
+.small-container {
+  max-width: 600px;
+  margin-top: 100px;
+}
+.signin-text {
+  font-weight: bold;
+}
+.btn-signin {
+  font-size: large;
+}
+
+/* Shipping */
+.shipping-container {
+  width: 1100px;
+  margin: auto;
+}
+.btn-continue {
+  font-size: large;
+  width: 150px;
+}
+
+/* Header */
+.username {
+  color: black;
+}
+.navbar {
+  background-color: #dbcc8f !important;
+}
+
+/* Check out */
+.checkout-steps > div {
+  color: rgb(150, 149, 150);
+  border-bottom: 0.2rem solid rgb(150, 149, 150);
+}
+.checkout-steps > div.active {
+  color: #dbcc8f !important;
+  border-bottom: 0.2rem solid #dbcc8f;
+}
+.checkout-line {
+  width: 1000px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+/* Order */
+.mar-top {
+  margin-top: 100px;
+  margin-left: 110px;
+}
+
+/* sidebar */
+.large-size {
+  font-size: large;
+}
+.black-text {
+  color: black;
+}
+.left25 {
+  margin-left: 25px;
+}
+
+/* SearchBox */
+.search-box {
+  margin-top: 5px;
+  width: 120px !important;
+}
+.btn-search {
+  width: 40px;
+  height: 50px;
+  border-radius: 0px;
+  margin-top: 6px;
+  color: black;
+  border: none;
+}
+.btn-search:hover {
+  background-color: #dbcc8f;
+}
+.text-bold {
+  font-weight: bold;
+}
+.margin-topp {
+  margin-top: 80px;
+}
+
+
+.img-small-thumbnail  {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+td.admin{
+  width: 100px;
+  height: 100px;
+  padding:0px ;
+}
